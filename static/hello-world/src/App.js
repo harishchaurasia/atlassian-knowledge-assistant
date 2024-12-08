@@ -67,7 +67,7 @@ function App() {
           value={keyword}
           onChange={(e) => setKeyword(e.target.value)}
           placeholder="Enter keywords (e.g., task)"
-          style={{ padding: '10px', fontSize: '16px', width: '100%' }}
+          style={{ padding: '10px', fontSize: '16px', width: '95%' }}
         />
       </div>
       <button
